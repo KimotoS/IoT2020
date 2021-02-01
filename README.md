@@ -1,5 +1,5 @@
-#https://github.com/KimotoS/Sisaku
-##↑今回の課題の保存場所
+# https://github.com/KimotoS/Sisaku
+## ↑今回の課題の保存場所
 # IoT2020
 ## 中見出し 
 ### 小見出し 
